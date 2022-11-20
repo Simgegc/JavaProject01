@@ -7,3 +7,5 @@ public class JavaRocksSimge {
 }
    /// how many hours passed i do not know. i learn very slowly. finally i did:))
 //thank you for your patience:))
+
+/// We have been working very well together I am happy. We are not sleeping on this. We are working really hard. 
